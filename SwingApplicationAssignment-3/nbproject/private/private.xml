@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/MainJFrame.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Profile/Profile.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/Librarian/AddMagazineJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Model/Role/BranchManagerRole.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/Librarian/LibrarianJFrame.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Material/BookDirectory.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/Customer/RentBookJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/BranchManager/ViewRentalJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/BookDetails/GenreDirectory.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/BranchManager/ViewMaterialJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/SystemAdmin/ManageBranchMJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Material/Material.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/BookDetails/Author.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/Customer/ViewMagazineJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Model/Role/CustomerRole.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Material/General.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Rental/Rent.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Model/Role/SystemAdminRole.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Library/Library.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Model/Role/LibrarianRole.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/Customer/ViewBookJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/System/ApplicationSystem.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Material/Book.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/SystemAdmin/SystemAdminJFrame.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Employee/EmployeeDirectory.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Employee/Employee.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/Librarian/AddBookJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/Customer/RentMagazineJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Customer/Customer.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/Librarian/RentReqJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Model/Role/Role.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/BookDetails/Genre.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/System/UserAccount.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/Customer/CustomerJFrame.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/System/Branch.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/System/UserAccountDirectory.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/Customer/CustomerDirectory.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/SystemAdmin/CreateBranchJPanel.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/SystemAdmin/ManageLibrarian.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/BranchManager/BranchManagerJFrame.java</file>
+            <file>file:/C:/Users/91730/Downloads/courseAssignment3%20(2)/SwingApplicationAssignment-3/src/UI/SystemAdmin/CustomerJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
